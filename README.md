@@ -46,7 +46,7 @@
 <details>
   <summary><b>Skills</b></summary>
 
-[![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![python](https://img.shields.io/badge/python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-★☆☆-lightgrey?labelColor=3097ba&logo=SQL&style=for-the-badge&logoColor=white)](https://www.python.org/)
 
 [![SQLite](https://img.shields.io/badge/SQLite-★☆☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
@@ -54,7 +54,7 @@
 [![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-★☆☆-lightgrey?labelColor=B41717&logo=MySQL&style=for-the-badge&logoColor=white)](https://www.redis.io/)
 
-[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![bash](https://img.shields.io/badge/bash-★☆☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 [![html](https://img.shields.io/badge/html-★☆☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★☆☆-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
