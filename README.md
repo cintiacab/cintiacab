@@ -9,6 +9,10 @@
 - JavaScript
 - AI
 
+## 🎓 Education
+- Bachelor's Degree in Mechanical Engineering @ Federal University of São João Del-Rei (UFSJ) 🔺
+- Post-Degree in Project Management @ Fundação Getúlio Vargas (FGV) 🔺
+
 ## 🏝️ Hobbies
 - Travel and explore
 - Read fiction books
