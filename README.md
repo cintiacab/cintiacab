@@ -1,4 +1,5 @@
-![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
+
+![F5B3C4EC-F15A-4C97-ABC4-6A574BBFC629_1_105_c](https://github.com/user-attachments/assets/8af0f54d-a932-425a-adf2-017cffb87882)
 
 <h1 align="center">Hi 👋, I'm Cíntia </h1>
 <h3 align="center"> An Engineer Project Manager from Brazil studying to be a Back-End Developer 🇧🇷 </h3>
