@@ -19,12 +19,18 @@
 - Watch TV shows
 
 ## 💻 Main Projects
+
+Python
 - [Order Receiver](https://github.com/cintiacab/orders_receiver_api)
 - [Bank Statement API](https://github.com/cintiacab/bank_api)
+
+JavaScript
+- [Number Picker](https://github.com/cintiacab/number-picker)
+- [E-Sport AI agent](https://github.com/cintiacab/e-sport-ai-agent)
   
 ## 📚 Learning
-- JavaScript (Node.js)
 - FastAPI
+- Pandas
   
 ## 🤪 Fun fact
 - Although I'm not religious, I have a tattoo with a symbol from Balinese Hinduism. Their culture amazed me so much that I decided to make it for protection.
